@@ -2,6 +2,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=CodeEcho-Yao&theme=dark)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeEcho-Yao&theme=dark&layout=compact)
+
+
 <!--
 **CodeEcho-Yao/CodeEcho-Yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
